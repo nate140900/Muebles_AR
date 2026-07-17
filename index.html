@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Muebles Dico AR</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+    <link rel="stylesheet" href="css/estilos.css">
+
+</head>
+
+<body>
+
+<h1>Mesa de Centro</h1>
+
+<model-viewer
+
+src="modelos/mesa.glb"
+
+camera-controls
+
+auto-rotate
+
+shadow-intensity="1"
+
+ar
+
+ar-modes="webxr scene-viewer quick-look"
+
+style="width:100%; height:600px;">
+
+</model-viewer>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
