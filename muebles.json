@@ -12,8 +12,8 @@
     "nombre": "Perchero de pared",
     "descripcion": "Perchero de pared con cinco ganchos metálicos.",
     "medidas": "100 × 25 × 20 cm (ancho × fondo × alto)",
-    "glb": "modelos/Perchero/perchero.glb",
-    "usdz": "modelos/Perchero/perchero.usdz"
+    "glb": "modelos/Perchero/Perchero.glb",
+    "usdz": "modelos/Perchero/Perchero.usdz"
   },
 
   {
