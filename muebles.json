@@ -1,0 +1,27 @@
+[
+  {
+    "id": "espejo",
+    "nombre": "Espejo giratorio con cajones",
+    "descripcion": "Espejo giratorio con cajones.",
+    "medidas": "",
+    "glb": "modelos/EspejoGiratorio_cajones/espejo-giratorio.glb",
+    "usdz": "modelos/EspejoGiratorio_cajones/espejo-giratorio.usdz"
+  },
+  {
+    "id": "perchero",
+    "nombre": "Perchero de pared",
+    "descripcion": "Perchero de pared con cinco ganchos metálicos.",
+    "medidas": "100 × 25 × 20 cm (ancho × fondo × alto)",
+    "glb": "modelos/Perchero/perchero.glb",
+    "usdz": "modelos/Perchero/perchero.usdz"
+  },
+
+  {
+    "id": "librero",
+    "nombre": "Librero de piso",
+    "descripcion": "PLibrero con puertas y entrepaños",
+    "medidas": "100 × 25 × 20 cm (ancho × fondo × alto)",
+    "glb": "modelos/Librero_piso/Librero.glb",
+    "usdz": "modelos/Librero_piso/Librero.usdz"
+  }
+]
