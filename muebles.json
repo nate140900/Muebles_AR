@@ -23,5 +23,14 @@
     "medidas": "100 × 25 × 20 cm (ancho × fondo × alto)",
     "glb": "modelos/Librero_piso/Librero.glb",
     "usdz": "modelos/Librero_piso/Librero.usdz"
-  }
+  },
+
+   {
+    "id": "centro tv",
+    "nombre": "Centro para TV",
+    "descripcion": "Centro de entretenimiento para TV, con puertas y entrepaños.",
+    "medidas": "500 × 50 × 220 cm (ancho × fondo × alto)",
+    "glb": "modelos/Centro TV/Centro de TV.glb",
+    "usdz": "modelos/Centro TV/Centro de TV.usdz"
+  } 
 ]
